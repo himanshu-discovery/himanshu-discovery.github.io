@@ -22,5 +22,15 @@
         "12:A4:A9:6A:51:8B:02:01:F2:E6:04:C7:99:0B:F4:C9:67:2B:B3:0E:AF:D1:08:52:1B:42:53:B0:E8:5F:F8:65"
       ]
     }
+  },
+
+  [{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vitalityactive.tataaia",
+    "sha256_cert_fingerprints":
+    ["FF:2A:CF:7B:DD:CC:F1:03:3E:E8:B2:27:7C:A2:E3:3C:DE:13:DB:AC:8E:EB:3A:B9:72:A1:0E:26:8A:F5:EC:AF"]
   }
+}]
 ]
